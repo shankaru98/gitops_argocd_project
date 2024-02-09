@@ -1,4 +1,6 @@
-/* groovylint-disable CompileStatic, ConsecutiveStringConcatenation, Indentation, NestedBlockDepth, SpaceBeforeOpeningBrace, UnnecessaryGString */
+/* groovylint-disable LineLength */
+/* groovylint-disable-next-line LineLength */
+/* groovylint-disable CompileStatic, ConsecutiveStringConcatenation, Indentation, NestedBlockDepth, SpaceBeforeOpeningBrace */
 pipeline {
     agent any
 
